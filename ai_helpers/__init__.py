@@ -3,7 +3,7 @@ from .callback.create_tensorboard_callback import create_tensorboard_callback
 
 # Experiment tracking
 from .experiment.fun_plot_learning_rate import fun_plot_learning_rate
-from .experiment.fun_plot_learning_rate import fun_plot_learning_rate
+from .experiment.fun_predict_and_plot import fun_predict_and_plot
 
 # Model Creation
 from .model.fun_create_model import fun_create_model
