@@ -30,3 +30,10 @@ Once you have installed the package, you can import and use the functions as sho
     from ai_helpers import fun_nvidia
     fun_nvidia()
 ```
+
+> **Note**🔑: If you want to import or install a single function (and code) you can also ->
+
+```py
+    !wget https://raw.githubusercontent.com/chris-okayasu/DeepLearning-Helper-Functions/refs/heads/main/ai_helpers/visualize/fun_nvidia.py
+```
+This ⬆️ are going to create a file .py with the name of the function and inject the code in your project
