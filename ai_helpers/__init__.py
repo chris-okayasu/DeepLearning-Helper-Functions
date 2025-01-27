@@ -7,6 +7,9 @@ from .experiment.fun_predict_and_plot import fun_predict_and_plot
 
 # Model Creation
 from .model.fun_create_model import fun_create_model
+from .model.fun_walk_through_dir import fun_walk_through_dir
+from .model.fun_unzip_data import fun_unzip_data
+from .model.fun_load_and_prep_image import fun_load_and_prep_image
 
 # Visualize
 from .visualize.fun_compare_histories import fun_compare_histories
@@ -17,3 +20,4 @@ from .visualize.fun_predict_and_plot import fun_predict_and_plot
 from .visualize.fun_view_random_image import fun_view_random_image
 from .visualize.fun_visualize_augmentation_effect import fun_visualize_augmentation_effect
 from .visualize.fun_visualize_training_history import fun_visualize_training_history
+from .visualize.fun_plot_loss_curves import plot_loss_curves
