@@ -11,7 +11,7 @@ To install and use this package in Google Colab, follow these steps:
     In a Google Colab cell, run the following command to clone the repository:
 
    ```bash
-   !git clone https://github.com/chris-okayasu/TensorFlow-Helper-Functions.git
+   !git clone https://github.com/chris-okayasu/DeepLearning-Helper-Functions.git
    ```
 
 2. **Install the package:**
@@ -19,7 +19,7 @@ To install and use this package in Google Colab, follow these steps:
    After cloning the repository, navigate to the project directory and install the package locally:
    
    ```bash
-   %cd TensorFlow-Helper-Functions
+   %cd DeepLearning-Helper-Functions
    !pip install .
    ```
 ## Example Usage
