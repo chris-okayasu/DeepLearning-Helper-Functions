@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 import os
 
-def plot_random_image(
+def fun_plot_random_image(
     model,
     images,
     true_labels,

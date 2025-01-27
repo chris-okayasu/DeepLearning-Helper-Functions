@@ -3,7 +3,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 from tensorflow.keras import layers
 
-def create_model(model_url, num_classes=10):
+def fun_create_model(model_url, num_classes=10):
   """Takes a TensorFlow Hub URL and creates a Keras Sequential model with it.
 
   Args:
