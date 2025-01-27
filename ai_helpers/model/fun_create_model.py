@@ -1,4 +1,4 @@
-!pip install tensorflow==2.15.0 tensorflow-hub==0.14.0 keras==2.15.0
+# !pip install tensorflow==2.15.0 tensorflow-hub==0.14.0 keras==2.15.0
 import tensorflow as tf
 import tensorflow_hub as hub
 from tensorflow.keras import layers
